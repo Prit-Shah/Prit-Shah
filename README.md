@@ -19,7 +19,7 @@ I'm [Prit Shah], a passionate Mean Stack Developer Passionately crafting code an
 
 ## Education
 
-- 🎓 Bachelor of Computer Applications (BCA) from [Veer Narmad South Gujarat University], [2021]
+- 🎓 Bachelor of Computer Applications (BCA) from [C. B. PATEL COMPUTER COLLEGE], [2021]
 - 🎓 Master of Computer Applications (MCA) from [Veer Narmad South Gujarat University], [2023]
 
 ## Let's Connect
