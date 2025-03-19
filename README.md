@@ -28,4 +28,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/prit-shah-99b528213?ut
 
 Let's collaborate and create amazing web applications together! Feel free to explore my repositories and reach out if you'd like to chat or collaborate on a project. Happy coding! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Prit-Shah/count.svg)
